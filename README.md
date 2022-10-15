@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhv232
 - 👀 I’m Computer Science undergrad at IIITDM Jabalpur
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web dev prjects
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 Reach me though e-mail: 21bcs232@iiitdmj.ac.in
 
 <!---
