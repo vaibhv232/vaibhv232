@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaibhav Singh
 
 🎓 Final-year Computer Science student at [IIITDM Jabalpur](http://www.iiitdmj.ac.in/) (Graduating June 2025)  
-💻 MERN Stack Developer | Backend Engineer | Competitive Programmer  
+💻 Backend Engineer | Competitive Programmer  
 🌐 Experienced with Spring Boot, Python, React, C/C++, JS
 
 ---
