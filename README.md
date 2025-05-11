@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @vaibhv232
-- 👀 I’m Computer Science undergrad at IIITDM Jabalpur
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web dev projects
-- 📫 Reach me though e-mail: vaibhav.official.232@gmail.com
+# 👋 Hi, I'm Vaibhav Singh
 
-<!---
-vaibhv232/vaibhv232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final-year Computer Science student at [IIITDM Jabalpur](http://www.iiitdmj.ac.in/) (Graduating June 2025)  
+💻 MERN Stack Developer | Backend Engineer | Competitive Programmer  
+🌐 Experienced with Spring Boot, Python, React, C/C++, JS
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Currently a **SDE Intern at Flipkart**, building scalable notification infrastructure.
+- 🧠 Previously interned at **Readyly**, enhancing platform usability and building interactive dashboards.
+- ⚡ Skilled in full-stack web development, API integrations, system design, and cloud infrastructure.
+- 🧩 Strong foundation in data structures and algorithms (Codeforces Expert, LeetCode Knight).
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript  
+**Frontend:** ReactJS, HTML, CSS, Material UI  
+**Backend:** NodeJS, ExpressJS, Spring Boot, Firebase  
+**Databases:** MongoDB, MySQL  
+**Dev Tools:** Git, GitHub, Postman, Docker, Jira  
+**Cloud:** Google Cloud, AWS
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: vaibhav.official.232@gmail.com  
+- 🔗 LinkedIn: [vaibhav-singh01](https://linkedin.com/in/vaibhav-singh01)  
+- 💻 GitHub: [@vaibhv232](https://github.com/vaibhv232)
+
+Thanks for visiting!
